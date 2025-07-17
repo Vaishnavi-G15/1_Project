@@ -1,0 +1,4 @@
+git clone https://github.com/etothe2pii/alexa_skill_squat.git
+pip install -r requirements.txt
+git clone https://github.com/serp-ai/bark-with-voice-clone.git
+pip install bark-with-voice-clone/
